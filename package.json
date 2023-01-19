@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IT122-fall-2022/intro-to-express.git"
+    "url": "git+https://github.com/ns-ad320/intro-to-express.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IT122-fall-2022/intro-to-express/issues"
+    "url": "https://github.com/ns-ad320/intro-to-express/issues"
   },
-  "homepage": "https://github.com/IT122-fall-2022/intro-to-express#readme",
+  "homepage": "https://github.com/ns-ad320/intro-to-express#readme",
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2"
